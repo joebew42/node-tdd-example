@@ -11,11 +11,6 @@ function Users() {
       email: "john@somewhere.net"
     }
   }
-
-  return {
-    all: this.all,
-    withId: this.withId
-  }
 }
 
 function create () {
